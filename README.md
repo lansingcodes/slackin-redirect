@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29f7a1d9-c50f-42c7-a944-9524934bcd87/deploy-status)](https://app.netlify.com/sites/lansingcodes-slackin-redirect/deploys)
+
 # Slack Inviter Redirect
 
 Redirects traffic from slack.lansing.codes to our Slack inviter, which is
