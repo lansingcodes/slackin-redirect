@@ -8,3 +8,6 @@ hosted at https://lansingcodes-slackin.herokuapp.com for free on Heroku.
 This project is hosted online using Netlify. A DNS CNAME record points
 `slack[.lansing.codes]` at the website, which then directs traffic to the
 [Slack inviter](https://github.com/rauchg/slackin) running on Heroku.
+
+## Code of Conduct
+All participants are expected to treat others with respect and follow our [Code of Conduct](https://www.lansing.codes/code-of-conduct/).
