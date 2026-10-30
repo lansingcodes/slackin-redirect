@@ -7,6 +7,9 @@ Redirects traffic from slack.lansing.codes to our shared invite link. An admin c
 This project is hosted on Netlify. The `_redirects` rule sends an HTTP 302 to
 Slack; `index.html` retains a clickable fallback for static preview.
 
+See the [Contributing Guide](.github/CONTRIBUTING.md) for issue and pull request
+guidelines, local preview steps, and deployment details.
+
 ## License
 
 [Hippocratic 2.1](https://firstdonoharm.dev)
